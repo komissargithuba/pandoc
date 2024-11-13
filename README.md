@@ -17,6 +17,7 @@ tests](https://github.com/jgm/pandoc/workflows/CI%20tests/badge.svg)](https://gi
 [![license](https://img.shields.io/badge/license-GPLv2+-lightgray.svg)](https://www.gnu.org/licenses/gpl.html)
 [![pandoc-discuss on google
 groups](https://img.shields.io/badge/pandoc-discuss-red.svg?style=social)](https://groups.google.com/forum/#!forum/pandoc-discuss)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Fpandoc.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Fpandoc?ref=badge_shield)
 
 ## The universal markup converter
 
@@ -270,3 +271,6 @@ opening a new issue.
 [GPL](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html "GNU General Public License"),
 version 2 or greater. This software carries no warranty of any kind.
 (See COPYRIGHT for full copyright and warranty notices.)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Fpandoc.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Fpandoc?ref=badge_large)
